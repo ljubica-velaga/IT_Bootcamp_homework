@@ -1,0 +1,25 @@
+Link ka GitHub nalogu:
+https://github.com/ljubica-velaga
+
+Istorija komandi:
+   55  git init
+   56  git clone https://github.com/ljubica-velaga/bootcampVezbanje.git
+   57  git status
+   58  git add fajl_sa_podacima.txt
+   59  git add C:\Users\38164\Desktop\bootcampVezbanje\Ljubica Velaga\fajl_sa_podacima.txt
+   60  git status
+   61  git add LjubicaVelaga
+   62  git status
+   63  git commit -m "Dodat je novi folder sa osnovnim informacijama"
+   64  git log
+   65  git status
+   66  git add vezba1.txt
+   67  git status
+   68  git commit vezba1.txt -m"Izmenjen je fajl vezba1.txt"
+   69  git push
+   70  git push
+   71  git push
+   72  git log --oneline
+   73  git log
+   74  git history
+   75  history

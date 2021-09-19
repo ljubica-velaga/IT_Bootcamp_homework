@@ -1,0 +1,4 @@
+1. Napraviti klasu automobil i dve main klase gde ce se u jednoj stampati podaci preko praznog konstruktora, a u drugom preko punog konstruktora. Atributi su marka, model, pogon, broj vrata i godiste.
+2. Dodati private atribut "predjeniKm", napraviti geter i seter i odstampati posebno ili zajedno sa prethodnom stampom. Raditi u klasi gde je pun konstruktor.
+3. Dodati atribute "potrosnjaGoriva" (int) i "kubikaza" (int). Ako kubikaza prelazi 1000 cm^3 onda stampati potrosnju da je 10 litara, ako je kubikaza ispod 1000 onda stampati da je potrosnja 8 litara.
+4. Izracunati koliko je ukupno novca potrosno na gorivo ako je cena jednog litra 120 dinara.
